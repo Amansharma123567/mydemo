@@ -1,3 +1,4 @@
 # mydemo
 This is my first Git repository
-Author- Aman Sharma
+<br>
+<h3>Author- Aman Sharma</h3>
